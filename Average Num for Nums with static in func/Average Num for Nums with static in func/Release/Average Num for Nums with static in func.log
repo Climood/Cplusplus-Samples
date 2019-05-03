@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  Average Num for Nums with static in func.cpp
+  Source.cpp
+c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(2): error C2370: sum: переопределение; другой класс хранения
+  c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(2): note:  см. объявление "sum"
+c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(2): error C2370: count: переопределение; другой класс хранения
+  c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(2): note:  см. объявление "count"
+c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(4): error C2084: функция "int avg_nums(int)" уже имеет текст реализации
+  c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(3): note: см. предыдущее определение "avg_nums"
+c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(9): error C2084: функция "void reset(void)" уже имеет текст реализации
+  c:\users\muduck\documents\visual studio 2015\projects\average num for nums with static in func\average num for nums with static in func\Source.cpp(8): note: см. предыдущее определение "reset"
